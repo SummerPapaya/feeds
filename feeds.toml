@@ -1,6 +1,0 @@
-[SummerTown]
-title = "夏天镇 SummerTown"
-url = "http://163cn.tv/JcoMT3"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
